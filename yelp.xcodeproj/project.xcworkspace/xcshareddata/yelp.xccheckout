@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4525E074-218F-4340-A56D-94707E5D4CE0</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9EB8DA420176E66DD13DE995CAB7884E375CF83A</key>
+		<string>github.com:jdg/oauthconsumer.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9EB8DA420176E66DD13DE995CAB7884E375CF83A</key>
+		<string>oauthconsumer/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:jdg/oauthconsumer.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9EB8DA420176E66DD13DE995CAB7884E375CF83A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9EB8DA420176E66DD13DE995CAB7884E375CF83A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>oauthconsumer</string>
+		</dict>
+	</array>
+</dict>
+</plist>
