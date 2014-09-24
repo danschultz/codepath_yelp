@@ -2,7 +2,7 @@
 
 This is an iOS demo application for displaying the latest box office movies using the [RottenTomatoes API](http://www.rottentomatoes.com/).
 
-Time spent: 7 hours spent in total
+Time spent: 13 hours spent in total
 
 Completed user stories:
 
